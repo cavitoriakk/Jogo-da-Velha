@@ -19,8 +19,10 @@ for (let quadrado of quadrados) {
     quadrado.onclick = jogada;
 }
 
+
+
 function verificarFinal(){
-    if(quadrados[0].style.backgroundColor == quadrados[1].style.backgroundColor && quadrados[1].style.backgroundColor == quadrados[2].style.backgroundColor && quadrados[2].style.backgroundColor == quadrados[3].style.backgroundColor){
+    if(quadrados[0].style.none == quadrados[1].style.backgroundColor && quadrados[1].style.backgroundColor == quadrados[2].style.backgroundColor && quadrados[2].style.backgroundColor == quadrados[3].style.backgroundColor){
         resposta.innerHTML = "!!! VOCÊ VENCEU !!!";
         
         for(let quadrado of quadrados){
