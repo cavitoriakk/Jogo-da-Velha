@@ -1,12 +1,12 @@
-#JOGO DA VELHA!
+# JOGO DA VELHA!
 
-##linguagens Que Foram Utilizadas:
+## linguagens Que Foram Utilizadas:
 
 - JAVASCRIPT;
 - HTML;
 - CSS.
 
-###Ferramentas das Linguagens:
+### Ferramentas das Linguagens:
 
 ~~~
 - Utilizamos em `JAVASCRIPT`: For, Function, If, Else If e Else;
@@ -21,3 +21,13 @@ function resetarJogo(){
  }
 
  botao.onclick = resetarJogo;
+ ~~~
+
+
+### Nomes dos Alunos: 
+
+- Danilo Owens;
+- Camilly Vitoria;
+- Leidiane Isabele;
+- Cristian Rafael;
+- Giovane Santesso.
