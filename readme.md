@@ -24,6 +24,8 @@ function resetarJogo(){
  ~~~
 
 
+
+
 ### Nomes dos Alunos: 
 
 - Danilo Owens;
